@@ -8,17 +8,26 @@ Ao enviar as informações, elas são adicionadas à tabela presente na página 
 
 Você pode conferir o projeto em: <a href="https://gestao-de-cadastros-hiringcoders.netlify.app/">Gestão de Cadastros</a>
 
-![image](https://user-images.githubusercontent.com/82124316/126702667-c824c763-8129-4197-8929-9293af472270.png)
 
-![image](https://user-images.githubusercontent.com/82124316/126702933-a447c4ca-bec7-4082-8b22-30991eac0527.png)
+![Página-Inicial](https://user-images.githubusercontent.com/86988238/126879580-358f4acc-cdc4-46e5-bdeb-21d4fcc2f8b7.png)
 
-![image](https://user-images.githubusercontent.com/82124316/126705746-824fa7ad-7637-4d56-8892-6717ecdc48ef.png)
+![Cadastro-produto](https://user-images.githubusercontent.com/86988238/126879644-231bb5d5-57ba-466f-bb41-660ad3b0b1da.png)
 
-![image](https://user-images.githubusercontent.com/82124316/126705786-a39fa75f-40c6-413e-a79c-29e4d5f2e258.png)
+![cadastro-produto-ok](https://user-images.githubusercontent.com/86988238/126879693-c70c03d4-92a9-4349-93cf-8910a64c5682.png)
 
-![image](https://user-images.githubusercontent.com/82124316/126706143-d0fcbafe-21f1-4620-9bb9-3f70ee438fbd.png)
+![Cadastro-cliente](https://user-images.githubusercontent.com/86988238/126879700-c3a98878-de08-4af4-aaef-7beedd51ddb9.png)
+
+![Cadastro-cliente-erro](https://user-images.githubusercontent.com/86988238/126879717-1cf584d2-32fa-4d05-b5ba-c056aff77b1b.png)
+
 
 Para a elaboração do projeto, utilizei:
+
+
+
+
+
+
+
 
 - **HTML**
 - **CSS**
