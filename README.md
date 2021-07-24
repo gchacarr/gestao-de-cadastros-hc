@@ -1,4 +1,4 @@
-# Gestão de Cadastros :shopping_cart::man:
+# Gestão de Cadastros :shopping_cart:
 
 Seja bem vindo! Neste desafio do Treinamento Hiring Coders, criei um Sistema de Gestão de Cadastros de Produtos e Clientes. 
 
