@@ -25,14 +25,10 @@ Para a elaboração do projeto, utilizei:
 
 
 
-
-
-
-
 - **HTML**
 - **CSS**
 - **JavaScript**
 
-Fique à vontade para conferir o resultado neste repositório e para entrar em contato.
+Espero que tenham gostado.
 
-## 🚀
+Obrigado!
